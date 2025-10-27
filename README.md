@@ -61,9 +61,9 @@ A web app that helps users create optimized travel itineraries based on their pr
 **Fullstack Developer**  
 📍 Malaysia  
 🕒 Oct 2025 – Present  
-- Develop and maintain fullstack web applications.  
-- Collaborate with designers and other developers to ensure cohesive and functional product outcomes.  
-- Work across frontend (Next.js, React) and backend (Node.js, Supabase, PostgreSQL).  
+- Develop and maintain enterprise web applications using Adobe Experience Manager.
+- Implement and customize AEM components, templates, dialogs, workflows, and services.
+- Work with Java (OSGi, Sling, JCR) on the backend and Vue.js on the frontend.
 
 **Freelance Web Developer**  
 📍 Remote  
